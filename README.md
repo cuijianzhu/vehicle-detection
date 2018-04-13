@@ -3,8 +3,6 @@
 **In this project, I will train multiple classifiers using color and gradient features to recognize vehicles, and perform a sliding window search in multiple scales to detect cars in a video stream.**
 
 ---
-**Link to the youtube video:**
-[https://youtu.be/E66a8GFWlno](https://youtu.be/E66a8GFWlno)
 
 **What to look for in *notebook.ipyb*?**
 
@@ -332,4 +330,7 @@ I have a `VideoProcessor` class that can do interframe averaging. This is reflec
 6. The pipeline takes about 1-2 seconds per frame to process. There ia a room for improvement, definitely, but I started with about 15 seconds per frame, so that's an achievement.
 
 ---
+
+**Link to the youtube video:**
+[https://youtu.be/E66a8GFWlno](https://youtu.be/E66a8GFWlno)
 
